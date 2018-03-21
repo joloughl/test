@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World! V3 - edited on work laptop - Edited on X220 at work... - Edited via github.com... And again v5.</h1>
+        <h1>Hello World! V3 - edited on work laptop - Edited on X220 at work... - Edited via github.com... And again v4.</h1>
     </body>
 </html>
